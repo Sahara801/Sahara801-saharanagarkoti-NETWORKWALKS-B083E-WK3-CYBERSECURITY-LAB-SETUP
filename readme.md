@@ -49,12 +49,12 @@ During Week 3, different password-security activities were performed using a pas
 
 The following activities were completed:
 
-| **#** | **Tool / Activity** | **Purpose**                                  |
-| ----- | ------------------- | -------------------------------------------- |
-| 1     | Hash Calculator     | Hash calculation and hash analysis           |
-| 2     | Locked PDF          | Password recovery and verification           |
-| 3     | John the Ripper     | Password auditing and recovery               |
-| 4     | Final Unlocked PDF  | Verification of successful password recovery |
+| **#Tool / ActivityPurpose** |                    |                                              |
+| --------------------------- | ------------------ | -------------------------------------------- |
+| 1                           | Hash Calculator    | Hash calculation and hash analysis           |
+| 2                           | Locked PDF         | Password recovery and verification           |
+| 3                           | John the Ripper    | Password auditing and recovery               |
+| 4                           | Final Unlocked PDF | Verification of successful password recovery |
 
 ---
 
@@ -79,7 +79,7 @@ The Hash Calculator was used to:
 
 **Hash Calculator**
 
-`Hash-calculator`
+![Hash Calculator](Hash-calculator.png)
 
 ---
 
@@ -122,7 +122,7 @@ John the Ripper was used to:
 
 **John-Johnny**
 
-`John-johnny`
+![John-Johnny](John-johnny.png)
 
 ---
 
@@ -140,7 +140,7 @@ The protected PDF was successfully opened after entering the recovered password.
 
 **Final-Unlocked**
 
-`Final-Unlocked`
+![Final-Unlocked](Final-unlocked.png)
 
 ---
 
@@ -154,6 +154,7 @@ John the Ripper
 Kali Linux
 Terminal
 Password-Protected PDF
+
 ```
 
 ---
@@ -202,9 +203,9 @@ These tools can be useful for security testing, but unauthorized access to passw
 
 The screenshots included in this repository are:
 
-1. `John-johnny` - John the Ripper password-auditing practical
-2. `Hash-calculator` - Hash calculation and analysis
-3. `Final-Unlocked` - Successfully unlocked password-protected PDF
+1. `John-johnny.png` - John the Ripper password-auditing practical
+2. `Hash-calculator.png` - Hash calculation and analysis
+3. `Final-unlocked.png` - Successfully unlocked password-protected PDF
 
 ---
 
